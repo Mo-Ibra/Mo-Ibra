@@ -6,7 +6,7 @@ Full stack web developer with React Js & Laravel
 
 I am a web programmer with more than one year of experience. I am currently working as a freelancer. I like to work on some libraries and dashboards that save programmers from getting tired. I have an ambition to learn new technology as long as it will save time and effort.
 
-* 🌍  I'm based in Freelancer
+* 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamedelgedwy245@gmail.com](mailto:mohamedelgedwy245@gmail.com)
 * 🧠  I'm learning Algorithms & Data Structure
 * 🤝  I'm open to collaborating on React Applications | Laravel Apps
