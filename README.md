@@ -52,3 +52,8 @@ I am a web programmer with more than one year of experience. I am currently work
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/DevMaradona"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+#### Badges
+
+![](https://komarev.com/ghpvc/?username=Dev-Maradona)
