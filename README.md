@@ -1,8 +1,6 @@
 Hi 👋 My name is Mohamed Ibrahim
 ================================
 
-![Profile views](https://gpvc.arturio.dev/[Dev-Maradona])
-
 Full stack web developer with React Js & Laravel
 ------------------------------------------------
 
