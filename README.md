@@ -55,5 +55,3 @@ I am a web programmer with more than one year of experience. I am currently work
 
 
 #### Badges
-
-![](https://komarev.com/ghpvc/?username=Mo-Ibra)
