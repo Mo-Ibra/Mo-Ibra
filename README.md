@@ -1,15 +1,13 @@
 Hi 👋 My name is Mohamed Ibrahim
 ================================
 
-Full stack web developer with React Js & Node JS
-------------------------------------------------
+Software Engineer (Full stack web developer)
+--------------------------------------------
 
 I am a full stack web developer with strong expertise in modern web technologies, including React, Next.js, Node.js, and a range of database systems such as PostgreSQL, MySQL, and various NoSQL solutions. Over the course of my career, I have built numerous projects independently, showcasing my ability to design, develop, and deploy comprehensive web applications from concept to completion. I excel in creating dynamic, scalable, and user-friendly solutions that meet diverse client needs. My passion lies in continuous learning and applying the latest development best practices to deliver exceptional results.
 
-* 🌍  I'm based in Egypt
-* ✉️  You can contact me at [mohamedelgedwy245@gmail.com](mailto:mohamedelgedwy245@gmail.com)
 * 🧠  I'm learning Algorithms & Data Structure
-* 🤝  I'm open to collaborating on React Applications | Node Applications
+* 🤝  I'm open to collaborating
 * ⚡  Muslim
 
 ### Skills
