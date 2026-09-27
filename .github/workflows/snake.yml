@@ -1,0 +1,30 @@
+name: Generate the snake animation
+
+on:
+  schedule:
+    # Every day at 00:00 UTC. GitHub schedules can be delayed during busy periods.
+    - cron: "27 0 * * *"
+  # Allows generating it manually from the Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs and commit them to the output branch
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Outputs written to the `output` branch and read back by the README.
+          svg_output: github-snake.svg
+          png_output: github-snake.png
+          dark_mode_svg_output: github-snake-dark.svg
+          dark_mode_png_output: github-snake-dark.png
+          # Only commit when the drawing actually changed, so git history stays quiet.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
