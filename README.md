@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=28&pause=1000&color=FF3B5C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mo-Ibra!;Shipping+products+from+the+browser+to+the+edge;Local-first%2C+tested%2C+and+built+to+last" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=26&pause=1000&color=FF3B5C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mo-Ibra!;Building+for+the+web;From+browser+to+the+edge" alt="Typing SVG" />
   </a>
 </div>
 
@@ -48,22 +48,22 @@ What I'm chasing right now is the layer *under* the app: **system engineering, D
 ### Tech Stack & Tools
 
 #### Frontend & Interface
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,html,css,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,html,css,js,ts&theme=dark)](https://skillicons.dev)
 
 #### Backend & Data
-[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,postgres,python,ts,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,python,django,flask,prisma,postgres,ts&theme=dark)](https://skillicons.dev)
 
 #### Tooling, Testing & Shipping
-[![My Skills](https://skillicons.dev/icons?i=vite,vitest,cloudflare,docker,githubactions,linux,bash,npm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vite,vitest,npm,docker,cloudflare,linux,bash&theme=dark)](https://skillicons.dev)
 
 <div align="center">
 
 | | |
 |---|---|
-| **Languages** | TypeScript · JavaScript · SQL · Bash · Python |
-| **Frontend** | React 19 · Next.js · Astro · Tailwind CSS v4 · Vite |
-| **Backend** | Prisma · PostgreSQL · Node.js · REST & background workers |
-| **Edge & Infra** | Cloudflare · Docker · GitHub Actions · Linux |
+| **Languages** | TypeScript · JavaScript · PHP · Python · SQL · Bash |
+| **Frontend** | React 19 · Next.js · Vue · Astro · Tailwind CSS v4 · Vite |
+| **Backend** | Node.js · Laravel · Django · Flask · Prisma · PostgreSQL · REST & background workers |
+| **Edge & Infra** | Cloudflare · Docker · GitHub Actions · GitHub · Linux |
 | **Quality** | Vitest · Oxlint · typed public APIs · CI gates before publish |
 
 </div>
